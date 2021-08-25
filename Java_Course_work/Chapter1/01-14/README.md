@@ -57,5 +57,5 @@ public class IfElseTest {
 }
 ```
 
-## 다음 강의
-[15. 조건이 여러 개 일 때의 if 문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-15/README.md)
+## 다음
+[15. 조건이 여러 개 일 때의 if 문](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-15/README.md)
