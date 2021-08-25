@@ -70,5 +70,5 @@ public class ForTest {
     따라서 값을 1씩 증가하려고 한다면 i++을 사용하세요
 
 
-## 다음 강의
-[20. 반복문이 여러 번 포개진 중첩 반복문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-20/README.md)
+## 다음
+[20. 반복문이 여러 번 포개진 중첩 반복문](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-20/README.md)
