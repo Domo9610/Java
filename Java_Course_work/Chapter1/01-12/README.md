@@ -104,8 +104,8 @@ public class ShortCircuit {
 }
 ```
 ![shorta](./img/shorta.PNG)
-## 다음 강의 
-[13. 자바의 연산자들 -3 (조건 연산자, 비트 연산자)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-13/README.md)
+## 다음
+[13. 자바의 연산자들 -3 (조건 연산자, 비트 연산자)](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-13/README.md)
 
 
 
