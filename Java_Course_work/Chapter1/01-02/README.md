@@ -17,5 +17,5 @@
 ![eclipse](./img/eclipse.PNG)
 
 
-## 3. 다음 강의 
+## 3. 다음
 [03. 자바 첫 프로그램 만들고 실행하기](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-03/README.md)
