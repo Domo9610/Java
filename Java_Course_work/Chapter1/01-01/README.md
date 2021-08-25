@@ -58,7 +58,7 @@
     JRE(Java Runtime Environment) : 자바 프로그램이 실행되는 환경. 8.0까지 무료로 제공 됨
     JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함
 
-## 다음 강의
+## 다음
 [02. 자바와 이클립스 설치하기](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-02/README.md)
 
     
