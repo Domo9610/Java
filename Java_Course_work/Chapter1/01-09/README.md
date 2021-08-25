@@ -52,6 +52,6 @@ public class LocalVariableType {
 }
 ```
 
-## 다음 강의 
-[# 10. 변하지 않는 상수와 리터럴, 변수의 형 변환](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-10/README.md)
+## 다음 
+[# 10. 변하지 않는 상수와 리터럴, 변수의 형 변환](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-10/README.md)
 
