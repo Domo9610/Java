@@ -81,5 +81,5 @@ public class BitTest {
 
 ![priority](./img/priority.png)
 
-## 다음 강의
-[14. 조건문 - if 문(만약에... 라면)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-14/README.md)
+## 다음
+[14. 조건문 - if 문(만약에... 라면)](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-14/README.md)
