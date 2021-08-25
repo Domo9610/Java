@@ -54,9 +54,9 @@ public class WhileTest {
    }
 ```
 
-## 다음 강의
+## 다음
 
-[18. 반복문 - do-while문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-18/README.md)
+[18. 반복문 - do-while문](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-18/README.md)
 
 
 
