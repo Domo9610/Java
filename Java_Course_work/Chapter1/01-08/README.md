@@ -69,5 +69,5 @@ public class CharacterTest {
 
  [한글 유니코드 표](http://www.unicode.org/charts/PDF/UAC00.pdf)
 
-## 다음 강의
-[09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-09/README.md)
+## 다음
+[09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-09/README.md)
