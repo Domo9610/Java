@@ -96,5 +96,5 @@ public class IfIfTest {
 ```
 ![ififanswer](./img/ififanswer.PNG)
 
-## 다음 강의
-[16. 조건이 여러 개 일 때 간단히 표현되는 switch-case 문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-16/README.md)
+## 다음
+[16. 조건이 여러 개 일 때 간단히 표현되는 switch-case 문](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-16/README.md)
