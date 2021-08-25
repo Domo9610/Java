@@ -28,3 +28,6 @@ public class HelloJava {
 
 ## 다음
 [04. 컴퓨터에서 자료 표현하기](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-04/README.md)
+
+## 돌아가기
+[목차](https://github.com/Domo9610/Java/blob/main/Java_Course_work/Chapter1/README.md)
