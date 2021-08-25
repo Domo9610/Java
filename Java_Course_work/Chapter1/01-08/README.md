@@ -71,3 +71,6 @@ public class CharacterTest {
 
 ## 다음
 [09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-09/README.md)
+
+## 돌아가기
+[목차](https://github.com/Domo9610/Java/blob/main/Java_Course_work/Chapter1/README.md)
