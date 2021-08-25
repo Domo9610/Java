@@ -26,5 +26,5 @@ public class HelloJava {
 
 ![hellojava](./img/hello.png)
 
-## 다음 강의 
-[04. 컴퓨터에서 자료 표현하기](https://gitlab.com/easyspubjava/javacoursework/-/tree/master/Chapter1/01-04/README.md)
+## 다음
+[04. 컴퓨터에서 자료 표현하기](https://github.com/Domo9610/Java/tree/main/Java_Course_work/Chapter1/01-04/README.md)
