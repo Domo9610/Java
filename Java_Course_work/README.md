@@ -1,4 +1,4 @@
-##Java 기초 총 
+#Java 기초 총정리
 
 1. [자바 기초](https://github.com/Domo9610/Java/edit/main/Java_Course_work/Chapter1)
 
