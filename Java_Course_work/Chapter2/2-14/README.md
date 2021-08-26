@@ -111,5 +111,8 @@ public class TakeTransTest {
 ![trans](./img/trans.PNG)
 
 
-[15. 복습해봅시다 (객체 협력)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-15/README.md)
+[15. 복습해봅시다 (객체 협력)](../2-15/README.md)
+
+## 돌아가기
+[목차](../README.md)
     
