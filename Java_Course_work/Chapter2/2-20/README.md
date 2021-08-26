@@ -152,4 +152,7 @@ public class CharArrayTest {
 }
 ```
 ## 다음 강의
-[21. 객체 배열 사용하기](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-21/README.md)
+[21. 객체 배열 사용하기](../2-21/README.md)
+
+## 돌아가기
+[목차](../README.md)
