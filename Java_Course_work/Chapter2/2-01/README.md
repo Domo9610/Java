@@ -32,4 +32,7 @@
 
 
 ## 다음 강의
-[23. 생활 속에서 객체 찾아 클래스로 구현해보기](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-02/README.md)
+[23. 생활 속에서 객체 찾아 클래스로 구현해보기](./2-02/README.md)
+
+## 돌아가기
+[목차](..)
