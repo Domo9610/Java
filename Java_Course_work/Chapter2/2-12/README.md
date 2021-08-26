@@ -83,4 +83,7 @@ public class Person {
 ![this2](./img/this2.PNG)
 
 ## 다음 강의
-[13. 객체 간의 협력 (collabration)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-13/README.md)
+[13. 객체 간의 협력 (collabration)](../2-13/README.md)
+
+## 돌아가기
+[목차](../README.md)
