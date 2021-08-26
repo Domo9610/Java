@@ -48,4 +48,7 @@ public class StudentTest {
 ```
 
 ## 다음 강의
-[05. 인스턴스 생성과 힙 메모리](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-05/README.md)
+[05. 인스턴스 생성과 힙 메모리](../2-05/README.md)
+
+## 돌아가기
+[목차](../README.md)
