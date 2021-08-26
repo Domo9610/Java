@@ -95,3 +95,6 @@ public class StudentTest {
 ```
 ![result](./img/result.PNG)
 
+## 돌아가기
+[목차](../README.md)
+
