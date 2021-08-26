@@ -39,4 +39,7 @@ public class ArrayListTest {
 ```
 
 ## 다음 강의 
-[24. ArrayList를 활용한 간단한 성적 산출 프로그램](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-24/README.md)
+[24. ArrayList를 활용한 간단한 성적 산출 프로그램](../2-24/README.md)
+
+## 돌아가기
+[목차](../README.md)
