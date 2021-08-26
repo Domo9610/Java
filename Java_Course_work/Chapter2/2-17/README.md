@@ -69,4 +69,7 @@ public class EmployeeTest2 {
 - 상황에 적절하게 변수를 사용해야 함
 
 ## 다음 강의
-[18. static 응용 - 싱글톤 패턴 (singleton pattern)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-18/README.md)
+[18. static 응용 - 싱글톤 패턴 (singleton pattern)](../2-18/README.md)
+
+## 돌아가기
+[목차](../README.md)
